@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #0d1b2a;
+    color: white;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    color: #f8edeb;
+}
+
+#searchBox {
+    border-radius: 2%;
+    width: 400px;
+    height: 37px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#cafeTable {
+    background-color: #124559;
+}
+
+th,
+td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #219ebc;
+    color: #212529;
+}
